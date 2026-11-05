@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background: #013a09;
+    color: wheat;
+}
+
+body {
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 2rem;
+    min-height: 100vh;
+}
+
+#title {
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+}
+
+ul, ol, dl {
+
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    
+    background-color: wheat;
+    color: black;
+
+    border-radius: 15px;
+
+    padding: 1rem 1rem 0.5rem 2.5rem;
+}
+
+dt {
+    font-weight: bold;
+    margin-top: 0.5rem;
+}
+
+#products b {
+    display: block;
+    margin-bottom: 1rem;
+}
